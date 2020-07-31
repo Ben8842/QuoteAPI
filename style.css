@@ -1,0 +1,60 @@
+
+.display-container {
+    font-size: 25px;
+    background: lightyellow;
+    text-align: center;
+}
+
+.quotedisplay {
+    font-size: 25px;
+    background: yellow;
+    text-align: left;
+}
+
+.quoteauthor {
+    font-size: 15px;
+    background: lightblue;
+    text-align: right;
+}
+
+.thanks {
+    font-size: 12px;
+    background: peachpuff;
+    text-align: left;
+}
+
+/*break*/
+
+.joke-container {
+    font-size: 25px;
+    background: lightyellow;
+    text-align: center;
+}
+
+.setup {
+    font-size: 25px;
+    background: yellow;
+    text-align: left;
+}
+
+.punch {
+    font-size: 22px;
+    background: lightgreen;
+    text-align: left;
+}
+
+/*break*/
+
+.advice-container {
+    font-size: 25px;
+    background: lightyellow;
+    text-align: center;
+}
+
+.advice {
+    font-size: 25px;
+    background: yellow;
+    text-align: left;
+}
+
+/*break*/
